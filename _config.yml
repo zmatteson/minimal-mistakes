@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Projects and blog posts"
 title_separator          : "-"
 name                     : "Projects and blog posts"
 description              : "Zeb's personal website"
