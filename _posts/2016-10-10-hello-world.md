@@ -1,7 +1,9 @@
 ---
-layout: post
-title: "First post"
-date: 2016-10-10
+title: "Hello world!"
+categories:
+  - introduction
+tags:
+  - introduction
 ---
 
 I've wanted to set up a website for a long time.  My first idea, circa 2000, was to build an online Hogwarts School of Witchcraft
