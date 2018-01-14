@@ -9,9 +9,9 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zeb Matteson"
+title                    : ""
 title_separator          : "-"
-name                     : "Zeb Matteson"
+name                     : "Blog posts and Projects"
 description              : "Zeb's personal website"
 url                      : "https://zmatteson.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
